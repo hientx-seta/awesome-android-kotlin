@@ -11,6 +11,10 @@ https://proandroiddev.com/learn-by-doing-executing-a-list-of-retrofit-requests-a
 
 https://levelup.gitconnected.com/using-flows-for-form-validation-in-android-79016b00c079
 
+* ViewModel with retry when request fail
+
+
+
 
 
 
