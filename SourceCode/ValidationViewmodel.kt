@@ -25,7 +25,7 @@ class ValidationViewmodel : ViewModel() {
         }
 }
 
-And then in View, init this ViewModel, and listener change EditText to call function 
+//And then in View, init this ViewModel, and listener change EditText to call function 
 
 viewModel = ViewModelProvider(this).get(ValidationViewmodel::class.java)
 
