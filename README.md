@@ -14,6 +14,11 @@ https://levelup.gitconnected.com/using-flows-for-form-validation-in-android-7901
 * ViewModel with retry when request fail
 
 
+# Certifications
+
+Associate Android Developer Certification
+https://medium.com/@gaetan.hfy/jai-pass%C3%A9-le-associate-android-developer-exam-c4552d621d82
+
 
 
 
