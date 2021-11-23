@@ -19,6 +19,9 @@ https://levelup.gitconnected.com/using-flows-for-form-validation-in-android-7901
 Associate Android Developer Certification
 https://medium.com/@gaetan.hfy/jai-pass%C3%A9-le-associate-android-developer-exam-c4552d621d82
 
+## Resources
+https://developer.android.com/courses?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1KCetsa1Kdo2KIIJMCODF1RrY3yr_rmOX9WKA-jq3E_n1D20Ivvz-xoCzasQAvD_BwE&gclsrc=aw.ds#certification-and-degree-programs
+
 
 
 
