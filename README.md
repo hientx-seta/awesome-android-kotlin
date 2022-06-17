@@ -1,6 +1,16 @@
 # awesome-android-kotlin
 Android with Kotlin is awesome
 
+## Performance
+
+https://github.com/android/performance-samples
+
+## Jetpack Compose
+
+https://github.com/android/nowinandroid
+
+https://github.com/android/performance-samples
+
 ## Coroutines Async
 
 * Learn By Doing : Executing a list of Retrofit requests Asynchronously using Coroutines on Android.
