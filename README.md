@@ -9,6 +9,8 @@ https://github.com/android/performance-samples
 
 https://github.com/android/nowinandroid
 
+https://github.com/android/architecture-samples
+
 https://github.com/android/performance-samples
 
 ## Coroutines Async
