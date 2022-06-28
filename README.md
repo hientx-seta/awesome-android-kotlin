@@ -25,6 +25,9 @@ https://levelup.gitconnected.com/using-flows-for-form-validation-in-android-7901
 
 * ViewModel with retry when request fail
 
+## Articles
+
+https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/
 
 ## Certifications
 
